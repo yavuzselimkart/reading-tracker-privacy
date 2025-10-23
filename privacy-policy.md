@@ -62,7 +62,7 @@ Bu tür talepler için iletişime geçebilirsiniz.
 
 Bu Gizlilik Politikası ile ilgili her türlü soru, yorum veya talep için bizimle iletişime geçebilirsiniz:
 
-**E-posta:** destek@yavuzselimkart.com  
+**E-posta:** y.selimkart@gmail.com
 *(Eğer farklı bir e-posta kullanıyorsanız güncelleyiniz.)*
 
 ---
@@ -73,11 +73,4 @@ Bu Gizlilik Politikası zaman zaman güncellenebilir.
 Politikada değişiklik yapılması halinde güncelleme tarihi yukarıda belirtilecektir.  
 Güncellemeler, bu sayfa üzerinden yayınlandığı anda geçerli olur.
 
----
-
-### ✅ GitHub Pages’de Yayınlama
-
-Bu dosyayı `privacy-policy.md` adıyla GitHub deposuna ekleyin ve GitHub Pages’i etkinleştirin.
-
-Önerilen yapı:
 
